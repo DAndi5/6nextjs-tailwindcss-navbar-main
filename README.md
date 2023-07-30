@@ -1,7 +1,7 @@
 # Create a Responsive NavBar with Next.js & TailwindCSS in UNDER 15mins
 
-### Описание курса:
-Данный проект сделан по видеокурсу.
+### РћРїРёСЃР°РЅРёРµ РєСѓСЂСЃР°:
+Р”Р°РЅРЅС‹Р№ РїСЂРѕРµРєС‚ СЃРґРµР»Р°РЅ РїРѕ РІРёРґРµРѕРєСѓСЂСЃСѓ.
 
 ---
 [youtube]: https://youtu.be/EtPRSidpxSU
